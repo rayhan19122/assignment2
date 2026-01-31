@@ -29,4 +29,4 @@ In this assignment, I focused on:
 3. Run the project using `flutter run`.
 
 ---
-*Created with ❤️ while learning Flutter in Bengali.*
+*Created with ❤️ while learning Flutter.*
