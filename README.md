@@ -1,11 +1,11 @@
-# 🎓 Digital Pathshala - Course Grid UI
+# 🎓 Digital Ostad - Course Grid UI
 
 This is my second assignment for the **Ostad Flutter Batch 14** course. The goal of this project was to practice building a modern Widget.
 
 ## 📸 App Preview
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="350" alt="App Screenshot">
+  <img src="YOUR_IMAGE_URL_HERE" width="350" alt="https://github.com/rayhan19122/assignment2/blob/461b2536d8415b7ef1d69fc7b20becfd2ad7bb61/Ostad_UI.png">
 </p>
 
 > **Note:** To add your image, upload it to GitHub and replace `YOUR_IMAGE_URL_HERE` with the link.
