@@ -53,9 +53,9 @@ class Code extends StatelessWidget{
 
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Color(0xFF305669),
+        backgroundColor: Color(0xFFFFD41D),
         title: Text(
-          'ডিজিটাল পাঠশালা',
+          'Digital Ostad',
           style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold,fontSize: 22),
         ),
       ),
