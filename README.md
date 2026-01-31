@@ -1,16 +1,34 @@
-# assignment2_on_flutter
+# 🎓 Digital Pathshala - Course Grid UI
 
-A new Flutter project.
+This is my second assignment for the **Ostad Flutter Batch 14** course. The goal of this project was to practice building a modern Widget.
 
-## Getting Started
+## 📸 App Preview
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" width="350" alt="App Screenshot">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+> **Note:** To add your image, upload it to GitHub and replace `YOUR_IMAGE_URL_HERE` with the link.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features & Learnings
+
+In this assignment, I focused on:
+* **Custom GridView:** Implementing a `GridView.builder` with a custom `childAspectRatio` for a clean look.
+* **Reusable Widgets:** Created modular `Course` and `Info` widgets to keep the code DRY (Don't Repeat Yourself).
+* **Data Models:** Practised using dynamic data maps to populate the UI (Batch numbers, seats left, and days remaining).
+* **Modern UI:** Added rounded corners, subtle borders, and a custom "See Details" button with an icon to match modern design standards.
+
+## 🛠️ Tech Stack
+* **Framework:** Flutter
+* **Language:** Dart
+* **Widgets:** StatelessWidget, GridView, ClipRRect, GestureDetector
+
+## 🏁 How to Run
+1. Clone this repository.
+2. Run `flutter pub get` in your terminal.
+3. Run the project using `flutter run`.
+
+---
+*Created with ❤️ while learning Flutter in Bengali.*
