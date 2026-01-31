@@ -4,9 +4,9 @@ This is my second assignment for the **Ostad Flutter Batch 14** course. The goal
 
 ## 📸 App Preview
 
-![image alt](https://github.com/rayhan19122/assignment2/blob/461b2536d8415b7ef1d69fc7b20becfd2ad7bb61/Ostad_UI.png)
-
-> **Note:** To add your image, upload it to GitHub and replace `YOUR_IMAGE_URL_HERE` with the link.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rayhan19122/assignment2/main/Ostad_UI.png" width="300" alt="Ostad UI Screenshot">
+</p>
 
 ---
 
